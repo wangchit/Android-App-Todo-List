@@ -3,7 +3,7 @@
 • The task title and due date must be entered before they are saved. Feedback is given to the user (via a Toast) if they add a task without
 this information.
 
-• Customized layout designed in row.xml.
+• Customized layout is designed in row.xml.
 
 • Tasks are saved in SQLite db database file.
 
