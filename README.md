@@ -1,7 +1,6 @@
 # Android-App-Todo-List
 
-• The task title and due date must be entered before they are saved. Feedback is given to the user (via a Toast) if they add a task without
-this information.
+• The task title and due date must be entered before they are saved. An error message is shown if a task without this information is added.
 
 • Customized layout is designed in row.xml.
 
